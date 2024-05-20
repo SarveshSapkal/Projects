@@ -1,4 +1,4 @@
-# It Is Compile File
+# It Is Python File
 
 import matchStats
 
