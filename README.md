@@ -1,3 +1,4 @@
+![logo](https://github.com/SarveshSapkal/Projects/blob/main/sql%20python%20wallpaper.avif)
 <h1 align="center">Hi 👋, I'm Sarvesh Sapkal</h1>
 <h3 align="center">A passionate Python And SQL developer from India</h3>
 
