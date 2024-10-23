@@ -1,4 +1,3 @@
-![img_alt](https://github.com/SarveshSapkal/Projects/blob/main/wp3205240-machine-learning-wallpapers.jpg?raw=true
 
 <h1 align="center">Hi 👋, I'm Sarvesh sapkal</h1>
 <h3 align="center">Passionate About Data, Machine Learning, Deep Learning and Innovation</h3>
